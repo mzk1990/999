@@ -1,3 +1,13 @@
 # Project exclude paths
 /.gradle/
 /build/
+/.idea/
+/gradle/
+build.gradle.kts
+123.patch
+fileName
+gradle.properties
+gradlew
+gradlew.bat
+local.properties
+settings.gradle.kts
