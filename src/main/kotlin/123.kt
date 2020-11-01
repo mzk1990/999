@@ -110,6 +110,7 @@ var count =0
         }
     }
     println()
+    println()
     println(map_elem[-8]?.size)
     println(H)
     var summ = 0.0
